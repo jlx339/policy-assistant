@@ -1,0 +1,4 @@
+[server]
+# Module inspection triggers Transformers' unused optional vision imports.
+# Restart Streamlit manually after editing Python source files.
+fileWatcherType = "none"

@@ -1,0 +1,1098 @@
+{
+  "created_at": "2026-10-18T07:08:53.907615+00:00",
+  "corpus_hash": "9fac481a920c38d74f42f59563d67dd9b55dc8928138a872cf4c23c9fdf8c642",
+  "questions_hash": "1470a2dd7e26af9b54f1e143253a6d61ba03264c07e1f1674aeee6aa3ccb50ea",
+  "scope": "Retrieval only; no generated answers or faithfulness scores.",
+  "summary": {
+    "dense": {
+      "recall_at_4": 0.9583333333333334,
+      "precision_at_4": 0.375
+    },
+    "hybrid": {
+      "recall_at_4": 0.9583333333333334,
+      "precision_at_4": 0.375
+    }
+  },
+  "rows": [
+    {
+      "id": "Q01",
+      "mode": "dense",
+      "expected_status": "answer",
+      "question": "How old can an expense claim be before manager approval is needed for reimbursement?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.5
+      },
+      "hits": [
+        {
+          "id": "c2844c845e1f0735",
+          "section": "Guidelines",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.650855541229248
+        },
+        {
+          "id": "ce643b246c310be6",
+          "section": "Policy Links and Resources",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.4145655930042267
+        },
+        {
+          "id": "c22543c9ab6131bc",
+          "section": "Guidelines",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.3760122060775757
+        },
+        {
+          "id": "c1418d63d8a6da5c",
+          "section": "Ways to spend company money",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.30366572737693787
+        }
+      ]
+    },
+    {
+      "id": "Q02",
+      "mode": "dense",
+      "expected_status": "answer",
+      "question": "What does the handbook say about knowingly expensing personal purchases that the expense policy does not cover?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.25
+      },
+      "hits": [
+        {
+          "id": "c2844c845e1f0735",
+          "section": "Guidelines",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.5731168985366821
+        },
+        {
+          "id": "ce643b246c310be6",
+          "section": "Policy Links and Resources",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.493315190076828
+        },
+        {
+          "id": "c22543c9ab6131bc",
+          "section": "Guidelines",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.45345818996429443
+        },
+        {
+          "id": "c170d277056d31ff",
+          "section": "Policy Links and Resources",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.44656631350517273
+        }
+      ]
+    },
+    {
+      "id": "Q03",
+      "mode": "dense",
+      "expected_status": "answer",
+      "question": "Who can help with home office expense questions or a new-hire virtual card?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.25
+      },
+      "hits": [
+        {
+          "id": "c6159f78c3435187",
+          "section": "Home Office Equipment and Supplies",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/procurement/office-equipment-supplies/",
+          "score": 0.5448077917098999
+        },
+        {
+          "id": "ce57173a40c887f4",
+          "section": "Ways to spend company money",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.5011881589889526
+        },
+        {
+          "id": "c1418d63d8a6da5c",
+          "section": "Ways to spend company money",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.4730416536331177
+        },
+        {
+          "id": "ce643b246c310be6",
+          "section": "Policy Links and Resources",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.35797634720802307
+        }
+      ]
+    },
+    {
+      "id": "Q04",
+      "mode": "dense",
+      "expected_status": "answer",
+      "question": "What device evidence must I provide to IT Ops before finishing onboarding?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.25
+      },
+      "hits": [
+        {
+          "id": "ca17f2d61c1584a3",
+          "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.42158013582229614
+        },
+        {
+          "id": "ccdd874a2cdfb713",
+          "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.4167576730251312
+        },
+        {
+          "id": "ce88a501f62960ce",
+          "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.3987593650817871
+        },
+        {
+          "id": "cda6f2af7c253ae2",
+          "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.3637283444404602
+        }
+      ]
+    },
+    {
+      "id": "Q05",
+      "mode": "dense",
+      "expected_status": "answer",
+      "question": "Are USB flash drives allowed on company-managed devices, and how can a business exception be requested?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.25
+      },
+      "hits": [
+        {
+          "id": "c46b02bc32b4b7f4",
+          "section": "Use of External Media on Company Assets",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.5762667655944824
+        },
+        {
+          "id": "cd246bda265f91f7",
+          "section": "Bring-Your-Own-Device (BYOD)",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.4487449526786804
+        },
+        {
+          "id": "cad744e91646f0cc",
+          "section": "Unable to Use Company Laptop",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.41034024953842163
+        },
+        {
+          "id": "cba64b866dd48aba",
+          "section": "Freeware, Browser Extensions, Add-ons, and Plugins",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.40682703256607056
+        }
+      ]
+    },
+    {
+      "id": "Q06",
+      "mode": "dense",
+      "expected_status": "answer",
+      "question": "May I back up company files to a file-sharing service other than the company Google Drive?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.25
+      },
+      "hits": [
+        {
+          "id": "ca2b9f75d54524b0",
+          "section": "Use of file sharing services other than GitLab\u2019s Google Drive",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.48251214623451233
+        },
+        {
+          "id": "c739799599525b66",
+          "section": "Unacceptable System and Network Activities",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.45919114351272583
+        },
+        {
+          "id": "cf288ec6bd8a38e1",
+          "section": "Use of file sharing services other than GitLab\u2019s Google Drive",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.4137808680534363
+        },
+        {
+          "id": "c46b02bc32b4b7f4",
+          "section": "Use of External Media on Company Assets",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.39369824528694153
+        }
+      ]
+    },
+    {
+      "id": "Q07",
+      "mode": "dense",
+      "expected_status": "answer",
+      "question": "I found a receipt from more than three months ago. Can I still get it paid back without asking my boss?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.5
+      },
+      "hits": [
+        {
+          "id": "c2844c845e1f0735",
+          "section": "Guidelines",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.4323888421058655
+        },
+        {
+          "id": "c5ef5044ae21289d",
+          "section": "Return of GitLab-Owned Assets",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.19078105688095093
+        },
+        {
+          "id": "c22543c9ab6131bc",
+          "section": "Guidelines",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.18175047636032104
+        },
+        {
+          "id": "c96e2b5aca3e7e71",
+          "section": "Spending Company Money",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.16052041947841644
+        }
+      ]
+    },
+    {
+      "id": "Q08",
+      "mode": "dense",
+      "expected_status": "answer",
+      "question": "How can I avoid losing connectivity when my mobile carrier has no signal on a work trip?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.25
+      },
+      "hits": [
+        {
+          "id": "c37f3b16c56074e3",
+          "section": "Internet redundancy",
+          "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+          "score": 0.5644814968109131
+        },
+        {
+          "id": "cf7fe83ce177b570",
+          "section": "Internet redundancy",
+          "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+          "score": 0.5510488748550415
+        },
+        {
+          "id": "ce6501cae218588b",
+          "section": "RV/camping, long-term rentals, and couch-surfing",
+          "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+          "score": 0.4892711043357849
+        },
+        {
+          "id": "c0577a651a2eb93f",
+          "section": "Buy local data with an eSIM, without changing your SIM card",
+          "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+          "score": 0.4154530167579651
+        }
+      ]
+    },
+    {
+      "id": "Q09",
+      "mode": "dense",
+      "expected_status": "answer",
+      "question": "What is Jamf used for on company Mac laptops?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.5
+      },
+      "hits": [
+        {
+          "id": "ca17f2d61c1584a3",
+          "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.5368040800094604
+        },
+        {
+          "id": "c3832195b6905a63",
+          "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.46901094913482666
+        },
+        {
+          "id": "cad744e91646f0cc",
+          "section": "Unable to Use Company Laptop",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.26895254850387573
+        },
+        {
+          "id": "cda6f2af7c253ae2",
+          "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.2634657323360443
+        }
+      ]
+    },
+    {
+      "id": "Q10",
+      "mode": "dense",
+      "expected_status": "answer",
+      "question": "Where should I ask about a home office purchase, and what general deadline applies when I submit the expense claim?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.75
+      },
+      "hits": [
+        {
+          "id": "c2844c845e1f0735",
+          "section": "Guidelines",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.48032262921333313
+        },
+        {
+          "id": "c6159f78c3435187",
+          "section": "Home Office Equipment and Supplies",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/procurement/office-equipment-supplies/",
+          "score": 0.38967856764793396
+        },
+        {
+          "id": "c22543c9ab6131bc",
+          "section": "Guidelines",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.3651619851589203
+        },
+        {
+          "id": "ce643b246c310be6",
+          "section": "Policy Links and Resources",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.3443645238876343
+        }
+      ]
+    },
+    {
+      "id": "Q11",
+      "mode": "dense",
+      "expected_status": "answer",
+      "question": "May I use the company laptop for personal email or a movie, and is that use exempt from security monitoring?",
+      "metrics": {
+        "recall_at_4": 0.5,
+        "precision_at_4": 0.25
+      },
+      "hits": [
+        {
+          "id": "cad744e91646f0cc",
+          "section": "Unable to Use Company Laptop",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.4751479923725128
+        },
+        {
+          "id": "c2421a3c4afd01f4",
+          "section": "Unable to Use Company Laptop",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.4215985834598541
+        },
+        {
+          "id": "ccdd874a2cdfb713",
+          "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.4020175337791443
+        },
+        {
+          "id": "ca230a7d7ced1511",
+          "section": "Unacceptable System and Network Activities",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.38859856128692627
+        }
+      ]
+    },
+    {
+      "id": "Q12",
+      "mode": "dense",
+      "expected_status": "answer",
+      "question": "While traveling, what does the handbook advise about public WiFi, and may I use a hotel public computer to sign into company accounts?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.5
+      },
+      "hits": [
+        {
+          "id": "c028fce10a4be977",
+          "section": "Connect to the Internet securely",
+          "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+          "score": 0.5131468176841736
+        },
+        {
+          "id": "c2421a3c4afd01f4",
+          "section": "Unable to Use Company Laptop",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.48502084612846375
+        },
+        {
+          "id": "c4dfed1100b43657",
+          "section": "Equipment and ergonomics",
+          "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+          "score": 0.4448329508304596
+        },
+        {
+          "id": "c9eecfaf260438c4",
+          "section": "RV/camping, long-term rentals, and couch-surfing",
+          "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+          "score": 0.4270298480987549
+        }
+      ]
+    },
+    {
+      "id": "Q13",
+      "mode": "dense",
+      "expected_status": "clarify",
+      "question": "Can I do that under the policy?",
+      "metrics": {
+        "recall_at_4": 0.0,
+        "precision_at_4": 0.0
+      },
+      "hits": [
+        {
+          "id": "c6fd6d8f803baa88",
+          "section": "Policy Compliance",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.49591773748397827
+        },
+        {
+          "id": "cda209a1712a21a5",
+          "section": "Tags:",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.36449724435806274
+        },
+        {
+          "id": "cd7ac89f41bbd919",
+          "section": "Customer Support Data Exception",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.35861361026763916
+        },
+        {
+          "id": "c170d277056d31ff",
+          "section": "Policy Links and Resources",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.3583945333957672
+        }
+      ]
+    },
+    {
+      "id": "Q14",
+      "mode": "dense",
+      "expected_status": "insufficient",
+      "question": "What is GitLab's stock price right now?",
+      "metrics": {
+        "recall_at_4": 0.0,
+        "precision_at_4": 0.0
+      },
+      "hits": [
+        {
+          "id": "c22543c9ab6131bc",
+          "section": "Guidelines",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.4400770962238312
+        },
+        {
+          "id": "ca6e9bf58cb966e3",
+          "section": "GitLab Internal Acceptable Use Policy",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.43040892481803894
+        },
+        {
+          "id": "ce4d80a82aae0dde",
+          "section": "Return of GitLab-Owned Assets",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.41595888137817383
+        },
+        {
+          "id": "caa815026f9867d8",
+          "section": "Security and Proprietary Information",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.4019937515258789
+        }
+      ]
+    },
+    {
+      "id": "Q15",
+      "mode": "dense",
+      "expected_status": "insufficient",
+      "question": "What is the exact home office stipend amount for a new hire in Canada?",
+      "metrics": {
+        "recall_at_4": 0.0,
+        "precision_at_4": 0.0
+      },
+      "hits": [
+        {
+          "id": "ce643b246c310be6",
+          "section": "Policy Links and Resources",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.219427689909935
+        },
+        {
+          "id": "c6159f78c3435187",
+          "section": "Home Office Equipment and Supplies",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/procurement/office-equipment-supplies/",
+          "score": 0.20933836698532104
+        },
+        {
+          "id": "caa91fb56b0493f5",
+          "section": "Policy Links and Resources",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 0.19275806844234467
+        },
+        {
+          "id": "c9eecfaf260438c4",
+          "section": "RV/camping, long-term rentals, and couch-surfing",
+          "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+          "score": 0.1736595332622528
+        }
+      ]
+    },
+    {
+      "id": "Q01",
+      "mode": "hybrid",
+      "expected_status": "answer",
+      "question": "How old can an expense claim be before manager approval is needed for reimbursement?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.5
+      },
+      "hits": [
+        {
+          "id": "c2844c845e1f0735",
+          "section": "Guidelines",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 4.22894287109375
+        },
+        {
+          "id": "c22543c9ab6131bc",
+          "section": "Guidelines",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": -4.923122406005859
+        },
+        {
+          "id": "c1418d63d8a6da5c",
+          "section": "Ways to spend company money",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": -10.257104873657227
+        },
+        {
+          "id": "ce643b246c310be6",
+          "section": "Policy Links and Resources",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": -10.569602012634277
+        }
+      ]
+    },
+    {
+      "id": "Q02",
+      "mode": "hybrid",
+      "expected_status": "answer",
+      "question": "What does the handbook say about knowingly expensing personal purchases that the expense policy does not cover?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.25
+      },
+      "hits": [
+        {
+          "id": "c2844c845e1f0735",
+          "section": "Guidelines",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": 3.7903707027435303
+        },
+        {
+          "id": "c22543c9ab6131bc",
+          "section": "Guidelines",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": -1.8323912620544434
+        },
+        {
+          "id": "c1418d63d8a6da5c",
+          "section": "Ways to spend company money",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": -3.1558241844177246
+        },
+        {
+          "id": "ce643b246c310be6",
+          "section": "Policy Links and Resources",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": -5.8497772216796875
+        }
+      ]
+    },
+    {
+      "id": "Q03",
+      "mode": "hybrid",
+      "expected_status": "answer",
+      "question": "Who can help with home office expense questions or a new-hire virtual card?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.25
+      },
+      "hits": [
+        {
+          "id": "c6159f78c3435187",
+          "section": "Home Office Equipment and Supplies",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/procurement/office-equipment-supplies/",
+          "score": 3.451819658279419
+        },
+        {
+          "id": "c1418d63d8a6da5c",
+          "section": "Ways to spend company money",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": -4.439411640167236
+        },
+        {
+          "id": "ce643b246c310be6",
+          "section": "Policy Links and Resources",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": -5.926146030426025
+        },
+        {
+          "id": "ce57173a40c887f4",
+          "section": "Ways to spend company money",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": -6.39614200592041
+        }
+      ]
+    },
+    {
+      "id": "Q04",
+      "mode": "hybrid",
+      "expected_status": "answer",
+      "question": "What device evidence must I provide to IT Ops before finishing onboarding?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.25
+      },
+      "hits": [
+        {
+          "id": "ca17f2d61c1584a3",
+          "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 5.761621952056885
+        },
+        {
+          "id": "ce88a501f62960ce",
+          "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -5.709024429321289
+        },
+        {
+          "id": "c30a16bf912ad1d1",
+          "section": "Exceptions",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -7.616815567016602
+        },
+        {
+          "id": "c3832195b6905a63",
+          "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -8.338128089904785
+        }
+      ]
+    },
+    {
+      "id": "Q05",
+      "mode": "hybrid",
+      "expected_status": "answer",
+      "question": "Are USB flash drives allowed on company-managed devices, and how can a business exception be requested?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.25
+      },
+      "hits": [
+        {
+          "id": "c46b02bc32b4b7f4",
+          "section": "Use of External Media on Company Assets",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 7.771797180175781
+        },
+        {
+          "id": "cad744e91646f0cc",
+          "section": "Unable to Use Company Laptop",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -2.0152268409729004
+        },
+        {
+          "id": "c2421a3c4afd01f4",
+          "section": "Unable to Use Company Laptop",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -2.1321725845336914
+        },
+        {
+          "id": "cd246bda265f91f7",
+          "section": "Bring-Your-Own-Device (BYOD)",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -2.418020248413086
+        }
+      ]
+    },
+    {
+      "id": "Q06",
+      "mode": "hybrid",
+      "expected_status": "answer",
+      "question": "May I back up company files to a file-sharing service other than the company Google Drive?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.25
+      },
+      "hits": [
+        {
+          "id": "ca2b9f75d54524b0",
+          "section": "Use of file sharing services other than GitLab\u2019s Google Drive",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 6.4596357345581055
+        },
+        {
+          "id": "cf288ec6bd8a38e1",
+          "section": "Use of file sharing services other than GitLab\u2019s Google Drive",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 5.2494893074035645
+        },
+        {
+          "id": "c46b02bc32b4b7f4",
+          "section": "Use of External Media on Company Assets",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -3.8401715755462646
+        },
+        {
+          "id": "c739799599525b66",
+          "section": "Unacceptable System and Network Activities",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -3.89613938331604
+        }
+      ]
+    },
+    {
+      "id": "Q07",
+      "mode": "hybrid",
+      "expected_status": "answer",
+      "question": "I found a receipt from more than three months ago. Can I still get it paid back without asking my boss?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.5
+      },
+      "hits": [
+        {
+          "id": "c2844c845e1f0735",
+          "section": "Guidelines",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": -9.177433967590332
+        },
+        {
+          "id": "c5ef5044ae21289d",
+          "section": "Return of GitLab-Owned Assets",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -10.722475051879883
+        },
+        {
+          "id": "c22543c9ab6131bc",
+          "section": "Guidelines",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": -11.064536094665527
+        },
+        {
+          "id": "ce9a5bec114e218f",
+          "section": "Unacceptable Email and Communications Activities",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -11.130281448364258
+        }
+      ]
+    },
+    {
+      "id": "Q08",
+      "mode": "hybrid",
+      "expected_status": "answer",
+      "question": "How can I avoid losing connectivity when my mobile carrier has no signal on a work trip?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.25
+      },
+      "hits": [
+        {
+          "id": "cf7fe83ce177b570",
+          "section": "Internet redundancy",
+          "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+          "score": -2.797391891479492
+        },
+        {
+          "id": "c37f3b16c56074e3",
+          "section": "Internet redundancy",
+          "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+          "score": -7.476363658905029
+        },
+        {
+          "id": "cd9bf2f7fa437158",
+          "section": "Communicate your status and location",
+          "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+          "score": -7.698416233062744
+        },
+        {
+          "id": "c028fce10a4be977",
+          "section": "Connect to the Internet securely",
+          "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+          "score": -8.155177116394043
+        }
+      ]
+    },
+    {
+      "id": "Q09",
+      "mode": "hybrid",
+      "expected_status": "answer",
+      "question": "What is Jamf used for on company Mac laptops?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.5
+      },
+      "hits": [
+        {
+          "id": "c3832195b6905a63",
+          "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 4.873301029205322
+        },
+        {
+          "id": "ca17f2d61c1584a3",
+          "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 4.580723285675049
+        },
+        {
+          "id": "cad744e91646f0cc",
+          "section": "Unable to Use Company Laptop",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -4.604583263397217
+        },
+        {
+          "id": "c46b02bc32b4b7f4",
+          "section": "Use of External Media on Company Assets",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -6.113770484924316
+        }
+      ]
+    },
+    {
+      "id": "Q10",
+      "mode": "hybrid",
+      "expected_status": "answer",
+      "question": "Where should I ask about a home office purchase, and what general deadline applies when I submit the expense claim?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.75
+      },
+      "hits": [
+        {
+          "id": "c2844c845e1f0735",
+          "section": "Guidelines",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": -1.1754823923110962
+        },
+        {
+          "id": "c6159f78c3435187",
+          "section": "Home Office Equipment and Supplies",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/procurement/office-equipment-supplies/",
+          "score": -3.647447109222412
+        },
+        {
+          "id": "c22543c9ab6131bc",
+          "section": "Guidelines",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": -8.520255088806152
+        },
+        {
+          "id": "ce57173a40c887f4",
+          "section": "Ways to spend company money",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": -10.282386779785156
+        }
+      ]
+    },
+    {
+      "id": "Q11",
+      "mode": "hybrid",
+      "expected_status": "answer",
+      "question": "May I use the company laptop for personal email or a movie, and is that use exempt from security monitoring?",
+      "metrics": {
+        "recall_at_4": 0.5,
+        "precision_at_4": 0.25
+      },
+      "hits": [
+        {
+          "id": "c2421a3c4afd01f4",
+          "section": "Unable to Use Company Laptop",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -0.5387609004974365
+        },
+        {
+          "id": "cad744e91646f0cc",
+          "section": "Unable to Use Company Laptop",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -0.6036478281021118
+        },
+        {
+          "id": "ccdd874a2cdfb713",
+          "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -3.5747387409210205
+        },
+        {
+          "id": "ce9a5bec114e218f",
+          "section": "Unacceptable Email and Communications Activities",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -4.376600742340088
+        }
+      ]
+    },
+    {
+      "id": "Q12",
+      "mode": "hybrid",
+      "expected_status": "answer",
+      "question": "While traveling, what does the handbook advise about public WiFi, and may I use a hotel public computer to sign into company accounts?",
+      "metrics": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.5
+      },
+      "hits": [
+        {
+          "id": "c028fce10a4be977",
+          "section": "Connect to the Internet securely",
+          "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+          "score": 2.2147276401519775
+        },
+        {
+          "id": "c2421a3c4afd01f4",
+          "section": "Unable to Use Company Laptop",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": 0.19158144295215607
+        },
+        {
+          "id": "c4dfed1100b43657",
+          "section": "Equipment and ergonomics",
+          "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+          "score": -2.7990431785583496
+        },
+        {
+          "id": "c22543c9ab6131bc",
+          "section": "Guidelines",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": -4.014688014984131
+        }
+      ]
+    },
+    {
+      "id": "Q13",
+      "mode": "hybrid",
+      "expected_status": "clarify",
+      "question": "Can I do that under the policy?",
+      "metrics": {
+        "recall_at_4": 0.0,
+        "precision_at_4": 0.0
+      },
+      "hits": [
+        {
+          "id": "c7b2d57d5b454e6e",
+          "section": "Open source libraries",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -0.544395923614502
+        },
+        {
+          "id": "c2421a3c4afd01f4",
+          "section": "Unable to Use Company Laptop",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -3.5197317600250244
+        },
+        {
+          "id": "c6fd6d8f803baa88",
+          "section": "Policy Compliance",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -4.137718677520752
+        },
+        {
+          "id": "ce9a5bec114e218f",
+          "section": "Unacceptable Email and Communications Activities",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -5.217632293701172
+        }
+      ]
+    },
+    {
+      "id": "Q14",
+      "mode": "hybrid",
+      "expected_status": "insufficient",
+      "question": "What is GitLab's stock price right now?",
+      "metrics": {
+        "recall_at_4": 0.0,
+        "precision_at_4": 0.0
+      },
+      "hits": [
+        {
+          "id": "c22543c9ab6131bc",
+          "section": "Guidelines",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+          "score": -2.470799207687378
+        },
+        {
+          "id": "ceda9d15262472d4",
+          "section": "Is this advice any good?",
+          "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+          "score": -2.7604448795318604
+        },
+        {
+          "id": "ce4d80a82aae0dde",
+          "section": "Return of GitLab-Owned Assets",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -2.8488717079162598
+        },
+        {
+          "id": "c5ef5044ae21289d",
+          "section": "Return of GitLab-Owned Assets",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -4.006295204162598
+        }
+      ]
+    },
+    {
+      "id": "Q15",
+      "mode": "hybrid",
+      "expected_status": "insufficient",
+      "question": "What is the exact home office stipend amount for a new hire in Canada?",
+      "metrics": {
+        "recall_at_4": 0.0,
+        "precision_at_4": 0.0
+      },
+      "hits": [
+        {
+          "id": "c6159f78c3435187",
+          "section": "Home Office Equipment and Supplies",
+          "source_url": "https://handbook.gitlab.com/handbook/finance/procurement/office-equipment-supplies/",
+          "score": -7.93277645111084
+        },
+        {
+          "id": "c028fce10a4be977",
+          "section": "Connect to the Internet securely",
+          "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+          "score": -11.29448127746582
+        },
+        {
+          "id": "cc295b3bc0f85518",
+          "section": "Equipment and ergonomics",
+          "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+          "score": -11.316853523254395
+        },
+        {
+          "id": "c3dac9dacf426b21",
+          "section": "Freeware, Browser Extensions, Add-ons, and Plugins",
+          "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+          "score": -11.339975357055664
+        }
+      ]
+    }
+  ]
+}

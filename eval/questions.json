@@ -1,0 +1,182 @@
+[
+  {
+    "id": "Q01",
+    "category": "direct",
+    "question": "How old can an expense claim be before manager approval is needed for reimbursement?",
+    "expected_status": "answer",
+    "expected_facts": [
+      "Claims older than 90 days from purchase need manager approval."
+    ],
+    "required_source_urls": [
+      "https://handbook.gitlab.com/handbook/finance/spending-company-money/"
+    ]
+  },
+  {
+    "id": "Q02",
+    "category": "direct",
+    "question": "What does the handbook say about knowingly expensing personal purchases that the expense policy does not cover?",
+    "expected_status": "answer",
+    "expected_facts": [
+      "Knowingly submitting uncovered personal purchases violates the Code of Business Conduct and Ethics."
+    ],
+    "required_source_urls": [
+      "https://handbook.gitlab.com/handbook/finance/spending-company-money/"
+    ]
+  },
+  {
+    "id": "Q03",
+    "category": "direct",
+    "question": "Who can help with home office expense questions or a new-hire virtual card?",
+    "expected_status": "answer",
+    "expected_facts": [
+      "The public equipment page directs additional questions to Compass or expenses@gitlab.com."
+    ],
+    "required_source_urls": [
+      "https://handbook.gitlab.com/handbook/finance/procurement/office-equipment-supplies/"
+    ]
+  },
+  {
+    "id": "Q04",
+    "category": "direct",
+    "question": "What device evidence must I provide to IT Ops before finishing onboarding?",
+    "expected_status": "answer",
+    "expected_facts": [
+      "Provide evidence of device encryption and the device serial number before onboarding is complete."
+    ],
+    "required_source_urls": [
+      "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/"
+    ]
+  },
+  {
+    "id": "Q05",
+    "category": "direct",
+    "question": "Are USB flash drives allowed on company-managed devices, and how can a business exception be requested?",
+    "expected_status": "answer",
+    "expected_facts": [
+      "Removable storage is blocked by default; a business-need exception can be requested and Corporate Security coordinates an approved encrypted device."
+    ],
+    "required_source_urls": [
+      "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/"
+    ]
+  },
+  {
+    "id": "Q06",
+    "category": "direct",
+    "question": "May I back up company files to a file-sharing service other than the company Google Drive?",
+    "expected_status": "answer",
+    "expected_facts": [
+      "Using another file-sharing service for backup or redundancy is prohibited; external sharing requires an approved exception before proceeding."
+    ],
+    "required_source_urls": [
+      "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/"
+    ]
+  },
+  {
+    "id": "Q07",
+    "category": "paraphrase",
+    "question": "I found a receipt from more than three months ago. Can I still get it paid back without asking my boss?",
+    "expected_status": "answer",
+    "expected_facts": [
+      "Claims older than 90 days require manager approval; do not replace 90 days with an exact calendar-month rule."
+    ],
+    "required_source_urls": [
+      "https://handbook.gitlab.com/handbook/finance/spending-company-money/"
+    ]
+  },
+  {
+    "id": "Q08",
+    "category": "paraphrase",
+    "question": "How can I avoid losing connectivity when my mobile carrier has no signal on a work trip?",
+    "expected_status": "answer",
+    "expected_facts": [
+      "Travel guidance recommends two connectivity sources, ideally on different mobile networks; tethering plus a hotspot on another operator is an example."
+    ],
+    "required_source_urls": [
+      "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/"
+    ]
+  },
+  {
+    "id": "Q09",
+    "category": "exact-term",
+    "question": "What is Jamf used for on company Mac laptops?",
+    "expected_status": "answer",
+    "expected_facts": [
+      "Jamf is the endpoint management solution for Mac laptops; expensed Mac laptops require installation as part of Day 1 Security tasks."
+    ],
+    "required_source_urls": [
+      "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/"
+    ]
+  },
+  {
+    "id": "Q10",
+    "category": "cross-document",
+    "question": "Where should I ask about a home office purchase, and what general deadline applies when I submit the expense claim?",
+    "expected_status": "answer",
+    "expected_facts": [
+      "Use the equipment page contact route for home-office questions.",
+      "The spending page requires manager approval for claims over 90 days."
+    ],
+    "required_source_urls": [
+      "https://handbook.gitlab.com/handbook/finance/procurement/office-equipment-supplies/",
+      "https://handbook.gitlab.com/handbook/finance/spending-company-money/"
+    ]
+  },
+  {
+    "id": "Q11",
+    "category": "cross-document",
+    "question": "May I use the company laptop for personal email or a movie, and is that use exempt from security monitoring?",
+    "expected_status": "answer",
+    "expected_facts": [
+      "Limited personal use is permitted subject to the stated law, company harm, intellectual-property, and employment-agreement constraints.",
+      "Personal and professional use remains subject to monitoring and protection, except where local law prohibits it."
+    ],
+    "required_source_urls": [
+      "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+      "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/"
+    ]
+  },
+  {
+    "id": "Q12",
+    "category": "cross-document",
+    "question": "While traveling, what does the handbook advise about public WiFi, and may I use a hotel public computer to sign into company accounts?",
+    "expected_status": "answer",
+    "expected_facts": [
+      "Travel guidance advises avoiding public WiFi when possible and using robust measures such as a personal VPN when necessary.",
+      "Acceptable Use prohibits signing into company accounts from public computers, including hotel kiosks."
+    ],
+    "required_source_urls": [
+      "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+      "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/"
+    ]
+  },
+  {
+    "id": "Q13",
+    "category": "ambiguous",
+    "question": "Can I do that under the policy?",
+    "expected_status": "clarify",
+    "expected_facts": [
+      "Ask what action or policy the user means rather than inventing the situation."
+    ],
+    "required_source_urls": []
+  },
+  {
+    "id": "Q14",
+    "category": "unanswerable",
+    "question": "What is GitLab's stock price right now?",
+    "expected_status": "insufficient",
+    "expected_facts": [
+      "The bounded policy snapshot cannot provide a live stock quote."
+    ],
+    "required_source_urls": []
+  },
+  {
+    "id": "Q15",
+    "category": "unanswerable",
+    "question": "What is the exact home office stipend amount for a new hire in Canada?",
+    "expected_status": "insufficient",
+    "expected_facts": [
+      "Do not invent an amount or infer it from a link to an internal expense policy; the selected public pages do not establish it."
+    ],
+    "required_source_urls": []
+  }
+]

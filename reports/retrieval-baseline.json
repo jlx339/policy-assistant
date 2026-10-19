@@ -1,0 +1,760 @@
+{
+  "scope": "Real dense retrieval only; no generation, reranking, or faithfulness measurement.",
+  "corpus_hash": "9fac481a920c38d74f42f59563d67dd9b55dc8928138a872cf4c23c9fdf8c642",
+  "summary": {
+    "recall_at_4": 0.9583333333333334,
+    "precision_at_4": 0.375
+  },
+  "rows": [
+    {
+      "id": "Q01",
+      "expected_status": "answer",
+      "hits": [
+        {
+          "chunk": {
+            "id": "c2844c845e1f0735",
+            "text": "spending company money > guidelines :\nin a timely manner, as expense claims over 90 days from purchase date will not be reimbursed unless approved by your manager. the sooner it is submitted, the sooner you will get reimbursement. - if team members knowingly submit expenses for reimbursement for personal purchases that are not covered in the expense policy, this is a violation of our code of business conduct & ethics ( https : / / s204. q4cdn. com / 984476563 / files / doc _ downloads / govdoc / gitlab - code - of - business - conduct - ethics - 2024 - 06 - 25. pdf ).",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Guidelines",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#guidelines"
+          },
+          "score": 0.650855541229248
+        },
+        {
+          "chunk": {
+            "id": "ce643b246c310be6",
+            "text": "spending company money > policy links and resources :\nthis table captures all of the links for different policies that are documented around using company money. this includes information of when to use our expense tool navan, when to use a virtual credit card and when to get a po from zip. policy name | owner | description global travel and expense policy ( https : / / handbook. gitlab. com / handbook / finance / expenses / ) | cfo | policy and procedures by which reimbursable expenses are reimbursed procurement process ( po ) ( https : / / handbook. gitlab. com / handbook / finance / procurement / ) | vp finance | process to engage the procurement team spending company money ( https : / / handbook. gitlab. com / handbook / finance / spending - company - money / ) | cfo | our policy on spending company money ; links to resources gitlab internal acceptable use policy ( https : / / handbook. gitlab",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Policy Links and Resources",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#policy-links-and-resources"
+          },
+          "score": 0.4145655930042267
+        },
+        {
+          "chunk": {
+            "id": "c22543c9ab6131bc",
+            "text": "spending company money > guidelines :\n- as a public company, gitlab has an obligation to act in the best interests of the corporation and its shareholders. this obligation is shared by all team members and is the basis of our global travel and expense policy as a public company ; team members must be thoughtful in spending the company \u2019 s money. - spending company money includes travel and expenses. - you may privately use gitlab property, a macbook for example, to check your private e - mails or watch a movie as long as it does not violate the law, harm gitlab, or interfere with intellectual property. more details can be found in the internal acceptable use policy ( https : / / handbook. gitlab. com / handbook / people - group / acceptable - use - policy / ). - file your expense report in a timely manner, as expense claims over 90 days from purchase date will not be reimbursed unless approved by your manager. the sooner it",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Guidelines",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#guidelines"
+          },
+          "score": 0.3760122060775757
+        },
+        {
+          "chunk": {
+            "id": "c1418d63d8a6da5c",
+            "text": "spending company money > ways to spend company money :\n- individual expenses that meet the expense policy on your personal credit card : please see our global travel and expense policy ( https : / / handbook. gitlab. com / handbook / finance / expenses / ) to see what we will reimburse and how to get reimbursement. - individual expenses using a virtual card : please see our global travel and expense policy ( https : / / handbook. gitlab. com / handbook / finance / expenses / ). - individual expenses using a navan physical card. please see our navan physical card policy ( https : / / handbook. gitlab. com / handbook / finance / accounts - payable / corp - credit - cards / ). - company expenses using a coupa virtual card : coupa virtual card ( https : / / handbook. gitlab. com / handbook / business - technology / enterprise - applications / guides / coupa - virtual - cards",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Ways to spend company money",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#ways-to-spend-company-money"
+          },
+          "score": 0.30366572737693787
+        }
+      ],
+      "retrieval": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.5
+      }
+    },
+    {
+      "id": "Q02",
+      "expected_status": "answer",
+      "hits": [
+        {
+          "chunk": {
+            "id": "c2844c845e1f0735",
+            "text": "spending company money > guidelines :\nin a timely manner, as expense claims over 90 days from purchase date will not be reimbursed unless approved by your manager. the sooner it is submitted, the sooner you will get reimbursement. - if team members knowingly submit expenses for reimbursement for personal purchases that are not covered in the expense policy, this is a violation of our code of business conduct & ethics ( https : / / s204. q4cdn. com / 984476563 / files / doc _ downloads / govdoc / gitlab - code - of - business - conduct - ethics - 2024 - 06 - 25. pdf ).",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Guidelines",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#guidelines"
+          },
+          "score": 0.5731168985366821
+        },
+        {
+          "chunk": {
+            "id": "ce643b246c310be6",
+            "text": "spending company money > policy links and resources :\nthis table captures all of the links for different policies that are documented around using company money. this includes information of when to use our expense tool navan, when to use a virtual credit card and when to get a po from zip. policy name | owner | description global travel and expense policy ( https : / / handbook. gitlab. com / handbook / finance / expenses / ) | cfo | policy and procedures by which reimbursable expenses are reimbursed procurement process ( po ) ( https : / / handbook. gitlab. com / handbook / finance / procurement / ) | vp finance | process to engage the procurement team spending company money ( https : / / handbook. gitlab. com / handbook / finance / spending - company - money / ) | cfo | our policy on spending company money ; links to resources gitlab internal acceptable use policy ( https : / / handbook. gitlab",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Policy Links and Resources",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#policy-links-and-resources"
+          },
+          "score": 0.493315190076828
+        },
+        {
+          "chunk": {
+            "id": "c22543c9ab6131bc",
+            "text": "spending company money > guidelines :\n- as a public company, gitlab has an obligation to act in the best interests of the corporation and its shareholders. this obligation is shared by all team members and is the basis of our global travel and expense policy as a public company ; team members must be thoughtful in spending the company \u2019 s money. - spending company money includes travel and expenses. - you may privately use gitlab property, a macbook for example, to check your private e - mails or watch a movie as long as it does not violate the law, harm gitlab, or interfere with intellectual property. more details can be found in the internal acceptable use policy ( https : / / handbook. gitlab. com / handbook / people - group / acceptable - use - policy / ). - file your expense report in a timely manner, as expense claims over 90 days from purchase date will not be reimbursed unless approved by your manager. the sooner it",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Guidelines",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#guidelines"
+          },
+          "score": 0.45345818996429443
+        },
+        {
+          "chunk": {
+            "id": "c170d277056d31ff",
+            "text": "spending company money > policy links and resources :\nacceptable use of physical corporate cards gitlab related party transactions ( https : / / handbook. gitlab. com / handbook / legal / gitlab - related - party - transactions - policy / ) | clo | related party transactions policy",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Policy Links and Resources",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#policy-links-and-resources"
+          },
+          "score": 0.44656631350517273
+        }
+      ],
+      "retrieval": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.25
+      }
+    },
+    {
+      "id": "Q03",
+      "expected_status": "answer",
+      "hits": [
+        {
+          "chunk": {
+            "id": "c6159f78c3435187",
+            "text": "home office equipment and supplies > home office equipment and supplies :\nfor questions on our policy and how to submit your home office expenses, including which categories in navan to use, please refer to the global travel and expenses handbook page \u2019 s \u201c equipment \u201d section ( https : / / internal. gitlab. com / handbook / finance / expenses / # equipment ). for any additional questions about this process or about utilizing your virtual card ( new hires only ), please reach out via compass ( https : / / handbook. gitlab. com / handbook / eta / corporate - it / compass / compass - guide / ) or email expenses @ gitlab. com ( mailto : expenses @ gitlab. com ). last modified september 13, 2026 : rename helplab to compass across handbook content ( bee431b5 ) view page source - edit this page - please contribute.",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/procurement/office-equipment-supplies/",
+            "section": "Home Office Equipment and Supplies",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/procurement/office-equipment-supplies/"
+          },
+          "score": 0.5448077917098999
+        },
+        {
+          "chunk": {
+            "id": "ce57173a40c887f4",
+            "text": "spending company money > ways to spend company money :\nhttps : / / handbook. gitlab. com / handbook / business - technology / enterprise - applications / guides / coupa - virtual - cards / ). - company expenses using a purchase order : please see our procurement process ( po ) ( https : / / handbook. gitlab. com / handbook / finance / procurement / ). last modified january 30, 2025 : replace ref links with regular links ( c4c9b3d1 ) view page source - edit this page - please contribute.",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Ways to spend company money",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#ways-to-spend-company-money"
+          },
+          "score": 0.5011881589889526
+        },
+        {
+          "chunk": {
+            "id": "c1418d63d8a6da5c",
+            "text": "spending company money > ways to spend company money :\n- individual expenses that meet the expense policy on your personal credit card : please see our global travel and expense policy ( https : / / handbook. gitlab. com / handbook / finance / expenses / ) to see what we will reimburse and how to get reimbursement. - individual expenses using a virtual card : please see our global travel and expense policy ( https : / / handbook. gitlab. com / handbook / finance / expenses / ). - individual expenses using a navan physical card. please see our navan physical card policy ( https : / / handbook. gitlab. com / handbook / finance / accounts - payable / corp - credit - cards / ). - company expenses using a coupa virtual card : coupa virtual card ( https : / / handbook. gitlab. com / handbook / business - technology / enterprise - applications / guides / coupa - virtual - cards",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Ways to spend company money",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#ways-to-spend-company-money"
+          },
+          "score": 0.4730416536331177
+        },
+        {
+          "chunk": {
+            "id": "ce643b246c310be6",
+            "text": "spending company money > policy links and resources :\nthis table captures all of the links for different policies that are documented around using company money. this includes information of when to use our expense tool navan, when to use a virtual credit card and when to get a po from zip. policy name | owner | description global travel and expense policy ( https : / / handbook. gitlab. com / handbook / finance / expenses / ) | cfo | policy and procedures by which reimbursable expenses are reimbursed procurement process ( po ) ( https : / / handbook. gitlab. com / handbook / finance / procurement / ) | vp finance | process to engage the procurement team spending company money ( https : / / handbook. gitlab. com / handbook / finance / spending - company - money / ) | cfo | our policy on spending company money ; links to resources gitlab internal acceptable use policy ( https : / / handbook. gitlab",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Policy Links and Resources",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#policy-links-and-resources"
+          },
+          "score": 0.35797634720802307
+        }
+      ],
+      "retrieval": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.25
+      }
+    },
+    {
+      "id": "Q04",
+      "expected_status": "answer",
+      "hits": [
+        {
+          "chunk": {
+            "id": "ca17f2d61c1584a3",
+            "text": "acceptable use policy > acceptable use and security requirements of computing resources at gitlab :\nusing gitlab - managed computers and accessing gitlab - managed data. as per the onboarding issue procedures ( https : / / gitlab. com / gitlab - com / people - group / people - operations / employment - templates / - / blob / main /. gitlab / issue _ templates / onboarding. md ) outlined in our handbook, evidence of device encryption and device serial number must be provided to it ops prior to the completion of onboarding period. we are currently using jamf as our endpoint management solution for mac laptops. all macos laptops procured by gitlab will come configured with jamf ( https : / / internal. gitlab. com / handbook / it / endpoint - tools / ). gitlab team members procuring and expensing mac laptops will require jamf",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#acceptable-use-and-security-requirements-of-computing-resources-at-gitlab"
+          },
+          "score": 0.42158013582229614
+        },
+        {
+          "chunk": {
+            "id": "ccdd874a2cdfb713",
+            "text": "acceptable use policy > acceptable use and security requirements of computing resources at gitlab :\ngitlab - managed assets are provided to conduct gitlab business, with consideration given for limited personal use subject to any conflicting statements contained in any individual employment contracts or agreements. our company uses global electronic communications and resources as routine parts of our business activities. personal and professional use of gitlab - managed assets are subject to security monitoring and protection, unless prohibited under the local laws of a respective team member \u2019 s jurisdiction. it is essential that electronic resources used to perform company business are protected to ensure that these resources are accessible for business purposes and operated in a cost - effective manner, that our company \u2019 s reputation is protected, and that we minimize the potential for legal risk. those receiving gitlab - provided assets are responsible for exercising good judgment when using gitlab - managed computers and accessing gitlab - managed data. as per the onboarding issue procedures ( https : / / gi",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#acceptable-use-and-security-requirements-of-computing-resources-at-gitlab"
+          },
+          "score": 0.4167576730251312
+        },
+        {
+          "chunk": {
+            "id": "ce88a501f62960ce",
+            "text": "acceptable use policy > acceptable use and security requirements of computing resources at gitlab :\n( https : / / internal. gitlab. com / handbook / security / corporate / tooling / fleet / ) as our endpoint management solution for linux laptops. gitlab team members using a linux laptop must enroll their device in fleet as part of their day 1 security tasks ( https : / / gitlab. com / gitlab - com / people - group / people - operations / employment - templates / - / blob / main /. gitlab / issue _ templates / onboarding. md # day - 1 - getting - started - accounts - and - paperwork ). once a device is enrolled, fleet automatically installs and continuously enforces the required security tooling, including endpoint detection and response ( edr ). see the linux desktop os ( https : / / handbook. gitlab. com / handbook / security / corporate /",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#acceptable-use-and-security-requirements-of-computing-resources-at-gitlab"
+          },
+          "score": 0.3987593650817871
+        },
+        {
+          "chunk": {
+            "id": "cda6f2af7c253ae2",
+            "text": "acceptable use policy > acceptable use and security requirements of computing resources at gitlab :\nresponse ( edr ). see the linux desktop os ( https : / / handbook. gitlab. com / handbook / security / corporate / systems / linux / ) page for the full list of linux endpoint requirements. upon their discretion, corpsec may install additional security tools via fleet. gitlab issued assets are company property and must be treated with care and respect. if applying stickers to company assets : - ensure all content is professional and appropriate for a workplace environment - do not apply stickers that could damage the device or interfere with its operation - do not cover ventilation ports, fans, or other functional elements - do not apply anything to the screen or areas that could obstruct the screen when closed",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#acceptable-use-and-security-requirements-of-computing-resources-at-gitlab"
+          },
+          "score": 0.3637283444404602
+        }
+      ],
+      "retrieval": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.25
+      }
+    },
+    {
+      "id": "Q05",
+      "expected_status": "answer",
+      "hits": [
+        {
+          "chunk": {
+            "id": "c46b02bc32b4b7f4",
+            "text": "acceptable use policy > use of external media on company assets :\nthe use of removable and external storage devices such as usb flash drives and external backup drives on company - managed devices is not allowed and is blocked by default. an exception request may be opened here ( https : / / gitlab. com / gitlab - com / gl - security / corp / issue - tracker / - / issues / new? issuable _ template = usb _ exception ) if there is a business need for the use of an external storage device. corporate security will coordinate with requestors to determine the most suitable encryption - enabled device and configure encryption and password protection. as a reminder, red data may not be transmitted from an approved red data source to any other systems or solutions without first obtaining approval from the privacy and security teams. please refer to gitlab \u2019 s data classification standard ( https : / / handbook. gitlab. com / handbook / security / policies _",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Use of External Media on Company Assets",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#use-of-external-media-on-company-assets"
+          },
+          "score": 0.5762667655944824
+        },
+        {
+          "chunk": {
+            "id": "cd246bda265f91f7",
+            "text": "acceptable use policy > bring - your - own - device ( byod ) :\nas a general rule, non - company devices are not permitted to access company assets. while there are some exceptions listed below, access to red classified data, as defined by the gitlab data classification standard ( https : / / handbook. gitlab. com / handbook / security / policies _ and _ standards / data - classification - standard / ), is still prohibited. the exceptions are as follows :",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Bring-Your-Own-Device (BYOD)",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#bring-your-own-device-byod"
+          },
+          "score": 0.4487449526786804
+        },
+        {
+          "chunk": {
+            "id": "cad744e91646f0cc",
+            "text": "acceptable use policy > unable to use company laptop :\nfor new employees who have not received a company laptop, there are exception processes ( https : / / handbook. gitlab. com / handbook / eta / corporate - it / end - user - services / laptop - management / laptop - ordering / # exception - processes ) for using non - company devices. the same exception processes apply in the case of a corporate laptop being unavailable or unusable due to loss, theft or disrepair. see lost or stolen procedures ( https : / / handbook. gitlab. com / handbook / security / # reporting - an - incident ) for additional information. you must open a policy exeption request ( https : / / gitlab. com / gitlab - com / gl - security / security - assurance / sec - compliance / exceptions / issues / new? issuable _ template = exception _ request ). while the exception processes are considered a temporary solution, you still",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Unable to Use Company Laptop",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#unable-to-use-company-laptop"
+          },
+          "score": 0.41034024953842163
+        },
+        {
+          "chunk": {
+            "id": "cba64b866dd48aba",
+            "text": "acceptable use policy > freeware, browser extensions, add - ons, and plugins :\nsoftware ( https : / / handbook. gitlab. com / handbook / finance / procurement / individual - use - software / ) request process. note in order to abide by the safe framework ( https : / / handbook. gitlab. com / handbook / legal / safe - framework / ), to preempt third party processing of company data under permissive individual use licensing terms, or to prevent team member misuse of certain third party software features, it, legal, privacy and security will generally err on the side of disallowing exceptions to enterprise level software, particularly if there is an enterprise option already in our tech stack applications ( https : / / handbook. gitlab. com / handbook / business - technology / tech - stack - applications / ) that achieves a similar purpose.",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Freeware, Browser Extensions, Add-ons, and Plugins",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#freeware-browser-extensions-add-ons-and-plugins"
+          },
+          "score": 0.40682703256607056
+        }
+      ],
+      "retrieval": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.25
+      }
+    },
+    {
+      "id": "Q06",
+      "expected_status": "answer",
+      "hits": [
+        {
+          "chunk": {
+            "id": "ca2b9f75d54524b0",
+            "text": "acceptable use policy > use of file sharing services other than gitlab \u2019 s google drive :\ncreating an account or using for backup / redundancy purpose a file sharing service other than gitlab \u2019 s google drive is prohibited. for sharing gitlab - related files with those external to gitlab, an exception must be granted. to obtain an exception create an access request outlining the business case, and do not proceed until the exception has been granted. when creating an account with and using a file sharing service other that google drive, team members must : - where available, use the sign in with google single sign - on option using a gitlab google workspace account, rather than creating an account using a gitlab ( or other provider ) email address and password. - only upload files directly to shared folders created by those external to gitlab and do not upload files to the personal area of the file sharing service. - remove all files and close",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Use of file sharing services other than GitLab\u2019s Google Drive",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#use-of-file-sharing-services-other-than-gitlabs-google-drive"
+          },
+          "score": 0.48251214623451233
+        },
+        {
+          "chunk": {
+            "id": "c739799599525b66",
+            "text": "acceptable use policy > unacceptable system and network activities :\nstored locally or within google drive folders associated with your gitlab. com account. access to these drives and files should be managed in accordance with our access management policy ( https : / / handbook. gitlab. com / handbook / security / security - and - technology - policies / access - management - policy / ), and handled according to our data classification standard ( https : / / handbook. gitlab. com / handbook / security / policies _ and _ standards / data - classification - standard / ). tools such as lightshot ( https : / / app. prntscr. com / en / index. html ), where upload functionality cannot be disabled and could result in inadvertent uploads, should not be used. - the use of high risk remote administration tools, such as teamviewer and anydesk, which are commonly used by attackers ( https : / / attack. mit",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Unacceptable System and Network Activities",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#unacceptable-system-and-network-activities"
+          },
+          "score": 0.45919114351272583
+        },
+        {
+          "chunk": {
+            "id": "cf288ec6bd8a38e1",
+            "text": "acceptable use policy > use of file sharing services other than gitlab \u2019 s google drive :\ncreated by those external to gitlab and do not upload files to the personal area of the file sharing service. - remove all files and close the account when the file sharing service is no longer needed.",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Use of file sharing services other than GitLab\u2019s Google Drive",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#use-of-file-sharing-services-other-than-gitlabs-google-drive"
+          },
+          "score": 0.4137808680534363
+        },
+        {
+          "chunk": {
+            "id": "c46b02bc32b4b7f4",
+            "text": "acceptable use policy > use of external media on company assets :\nthe use of removable and external storage devices such as usb flash drives and external backup drives on company - managed devices is not allowed and is blocked by default. an exception request may be opened here ( https : / / gitlab. com / gitlab - com / gl - security / corp / issue - tracker / - / issues / new? issuable _ template = usb _ exception ) if there is a business need for the use of an external storage device. corporate security will coordinate with requestors to determine the most suitable encryption - enabled device and configure encryption and password protection. as a reminder, red data may not be transmitted from an approved red data source to any other systems or solutions without first obtaining approval from the privacy and security teams. please refer to gitlab \u2019 s data classification standard ( https : / / handbook. gitlab. com / handbook / security / policies _",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Use of External Media on Company Assets",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#use-of-external-media-on-company-assets"
+          },
+          "score": 0.39369824528694153
+        }
+      ],
+      "retrieval": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.25
+      }
+    },
+    {
+      "id": "Q07",
+      "expected_status": "answer",
+      "hits": [
+        {
+          "chunk": {
+            "id": "c2844c845e1f0735",
+            "text": "spending company money > guidelines :\nin a timely manner, as expense claims over 90 days from purchase date will not be reimbursed unless approved by your manager. the sooner it is submitted, the sooner you will get reimbursement. - if team members knowingly submit expenses for reimbursement for personal purchases that are not covered in the expense policy, this is a violation of our code of business conduct & ethics ( https : / / s204. q4cdn. com / 984476563 / files / doc _ downloads / govdoc / gitlab - code - of - business - conduct - ethics - 2024 - 06 - 25. pdf ).",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Guidelines",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#guidelines"
+          },
+          "score": 0.4323888421058655
+        },
+        {
+          "chunk": {
+            "id": "c5ef5044ae21289d",
+            "text": "acceptable use policy > return of gitlab - owned assets :\nall gitlab - owned computing resources must be returned ( https : / / handbook. gitlab. com / handbook / people - group / offboarding / # returning - property - to - gitlab ) upon separation from the company. notwithstanding anything contrary in the laptop buy back policy ( https : / / handbook. gitlab. com / handbook / eta / corporate - it / end - user - services / laptop - management / laptop - offboarding - returns / # laptop - buybacks ) or the offboarding tasks ( https : / / handbook. gitlab. com / handbook / people - group / offboarding / # managing - the - offboarding - tasks ), team members must return any gitlab - owned assets \u2013 irrespective of their valuation \u2013 if they are specifically requested to do so either during their tenure with gitlab or upon offboarding. in cases of investigation",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Return of GitLab-Owned Assets",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#return-of-gitlab-owned-assets"
+          },
+          "score": 0.19078105688095093
+        },
+        {
+          "chunk": {
+            "id": "c22543c9ab6131bc",
+            "text": "spending company money > guidelines :\n- as a public company, gitlab has an obligation to act in the best interests of the corporation and its shareholders. this obligation is shared by all team members and is the basis of our global travel and expense policy as a public company ; team members must be thoughtful in spending the company \u2019 s money. - spending company money includes travel and expenses. - you may privately use gitlab property, a macbook for example, to check your private e - mails or watch a movie as long as it does not violate the law, harm gitlab, or interfere with intellectual property. more details can be found in the internal acceptable use policy ( https : / / handbook. gitlab. com / handbook / people - group / acceptable - use - policy / ). - file your expense report in a timely manner, as expense claims over 90 days from purchase date will not be reimbursed unless approved by your manager. the sooner it",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Guidelines",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#guidelines"
+          },
+          "score": 0.18175047636032104
+        },
+        {
+          "chunk": {
+            "id": "c96e2b5aca3e7e71",
+            "text": "spending company money > spending company money :\nall team members and contractors must protect our company assets, such as equipment, supplies, cash, and information. treat company assets with the same care you would if they were your own. no team member or contractor may commit theft, fraud or embezzlement, or misuse company property.",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Spending Company Money",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/"
+          },
+          "score": 0.16052041947841644
+        }
+      ],
+      "retrieval": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.5
+      }
+    },
+    {
+      "id": "Q08",
+      "expected_status": "answer",
+      "hits": [
+        {
+          "chunk": {
+            "id": "c37f3b16c56074e3",
+            "text": "working while traveling > internet redundancy :\na smartphone with tethering enabled is vital for digital nomads. photo by darren murph for remote workers, a robust connection to the internet is vital ( https : / / about. gitlab. com / blog / 2016 / 03 / 23 / remote - communication / ). this is easier to control at home ( https : / / about. gitlab. com / blog / 2019 / 09 / 12 / not - everyone - has - a - home - office / ) or in a coworking venue ( https : / / about. gitlab. com / blog / 2019 / 09 / 04 / not - all - remote - is - created - equal / ), and it requires special consideration when on the road. avid travelers ( https : / / about. gitlab. com / blog / 2019 / 06 / 25 / how - remote - work - at - gitlab - enables -",
+            "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+            "section": "Internet redundancy",
+            "section_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/#internet-redundancy"
+          },
+          "score": 0.5644814968109131
+        },
+        {
+          "chunk": {
+            "id": "cf7fe83ce177b570",
+            "text": "working while traveling > internet redundancy :\nabout. gitlab. com / blog / 2019 / 06 / 25 / how - remote - work - at - gitlab - enables - location - independence / ) should maintain at least two connectivity sources \u2014 ideally, two sources that connect to different mobile networks. a simple way to achieve this redundancy is to lean on one mobile network operator for your smartphone ( and enable tethering if it is not on by default with your current plan ), while procuring a mobile hotspot through a different operator. another way to improve your chances of a strong internet connection while traveling is to bring an ethernet cord and adapter that allows you to connect an ethernet cord to your laptop. not all hotels or coworking spaces will provide an ethernet connection option, but if it is available ethernet is your best bet for a fast, secure internet connection. if you plan to travel through various countries and continents ( https : / / about",
+            "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+            "section": "Internet redundancy",
+            "section_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/#internet-redundancy"
+          },
+          "score": 0.5510488748550415
+        },
+        {
+          "chunk": {
+            "id": "ce6501cae218588b",
+            "text": "working while traveling > rv / camping, long - term rentals, and couch - surfing :\nworking from the ends of the earth is a major perk of all - remote. photo by darren murph being able to work from anywhere enables new lifestyle possibilities, including extended road trips in an rv / camper ( https : / / about. gitlab. com / blog / 2019 / 06 / 25 / how - remote - work - at - gitlab - enables - location - independence / ). those considering such a lifestyle should peruse online forums to understand the day - to - day demands, and take care to plot out your journey in way that doesn \u2019 t leave you scrambling for a connection. call campgrounds in advance and ask for speed test details on their wifi, and use online coverage maps to determine what will be available from a mobile operator. consider weather and facilities as well. for those looking for a somewhat more stable version of the continual road trip,",
+            "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+            "section": "RV/camping, long-term rentals, and couch-surfing",
+            "section_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/#rvcamping-long-term-rentals-and-couch-surfing"
+          },
+          "score": 0.4892711043357849
+        },
+        {
+          "chunk": {
+            "id": "c0577a651a2eb93f",
+            "text": "working while traveling > buy local data with an esim, without changing your sim card :\nif your phone supports esims ( https : / / www. digitaltrends. com / mobile / esim - explainer / ) you may also be able to use services like gigsky ( https : / / www. gigsky. com ) or airalo ( https : / / www. airalo. com / ) which allow you to purchase affordable local data plans on demand without needing to change sim cards. even if you don \u2019 t purchase the plan you can use such a service as a redundant option if your local or roaming sim is not getting reliable service. some tips for using airalo : - purchase your esim before you travel and be sure to activate it while connected to wifi. - have another phone handy so that you can take a picture of the qr code needed to activate your esim. this way you can scan it with the phone you \u2019 re using",
+            "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+            "section": "Buy local data with an eSIM, without changing your SIM card",
+            "section_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/#buy-local-data-with-an-esim-without-changing-your-sim-card"
+          },
+          "score": 0.4154530167579651
+        }
+      ],
+      "retrieval": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.25
+      }
+    },
+    {
+      "id": "Q09",
+      "expected_status": "answer",
+      "hits": [
+        {
+          "chunk": {
+            "id": "ca17f2d61c1584a3",
+            "text": "acceptable use policy > acceptable use and security requirements of computing resources at gitlab :\nusing gitlab - managed computers and accessing gitlab - managed data. as per the onboarding issue procedures ( https : / / gitlab. com / gitlab - com / people - group / people - operations / employment - templates / - / blob / main /. gitlab / issue _ templates / onboarding. md ) outlined in our handbook, evidence of device encryption and device serial number must be provided to it ops prior to the completion of onboarding period. we are currently using jamf as our endpoint management solution for mac laptops. all macos laptops procured by gitlab will come configured with jamf ( https : / / internal. gitlab. com / handbook / it / endpoint - tools / ). gitlab team members procuring and expensing mac laptops will require jamf",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#acceptable-use-and-security-requirements-of-computing-resources-at-gitlab"
+          },
+          "score": 0.5368040800094604
+        },
+        {
+          "chunk": {
+            "id": "c3832195b6905a63",
+            "text": "acceptable use policy > acceptable use and security requirements of computing resources at gitlab :\nhandbook / it / endpoint - tools / ). gitlab team members procuring and expensing mac laptops will require jamf ( https : / / internal. gitlab. com / handbook / it / endpoint - tools / ) to be installed as part of their day 1 security tasks ( https : / / gitlab. com / gitlab - com / people - group / people - operations / employment - templates / - / blob / main /. gitlab / issue _ templates / onboarding. md # day - 1 - getting - started - accounts - and - paperwork ). upon their discretion, corpsec may install additional security tools via jamf. we are currently using fleet ( https : / / internal. gitlab. com / handbook / security / corporate / tooling / fleet / ) as our endpoint management",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#acceptable-use-and-security-requirements-of-computing-resources-at-gitlab"
+          },
+          "score": 0.46901094913482666
+        },
+        {
+          "chunk": {
+            "id": "cad744e91646f0cc",
+            "text": "acceptable use policy > unable to use company laptop :\nfor new employees who have not received a company laptop, there are exception processes ( https : / / handbook. gitlab. com / handbook / eta / corporate - it / end - user - services / laptop - management / laptop - ordering / # exception - processes ) for using non - company devices. the same exception processes apply in the case of a corporate laptop being unavailable or unusable due to loss, theft or disrepair. see lost or stolen procedures ( https : / / handbook. gitlab. com / handbook / security / # reporting - an - incident ) for additional information. you must open a policy exeption request ( https : / / gitlab. com / gitlab - com / gl - security / security - assurance / sec - compliance / exceptions / issues / new? issuable _ template = exception _ request ). while the exception processes are considered a temporary solution, you still",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Unable to Use Company Laptop",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#unable-to-use-company-laptop"
+          },
+          "score": 0.26895254850387573
+        },
+        {
+          "chunk": {
+            "id": "cda6f2af7c253ae2",
+            "text": "acceptable use policy > acceptable use and security requirements of computing resources at gitlab :\nresponse ( edr ). see the linux desktop os ( https : / / handbook. gitlab. com / handbook / security / corporate / systems / linux / ) page for the full list of linux endpoint requirements. upon their discretion, corpsec may install additional security tools via fleet. gitlab issued assets are company property and must be treated with care and respect. if applying stickers to company assets : - ensure all content is professional and appropriate for a workplace environment - do not apply stickers that could damage the device or interfere with its operation - do not cover ventilation ports, fans, or other functional elements - do not apply anything to the screen or areas that could obstruct the screen when closed",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#acceptable-use-and-security-requirements-of-computing-resources-at-gitlab"
+          },
+          "score": 0.2634657323360443
+        }
+      ],
+      "retrieval": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.5
+      }
+    },
+    {
+      "id": "Q10",
+      "expected_status": "answer",
+      "hits": [
+        {
+          "chunk": {
+            "id": "c2844c845e1f0735",
+            "text": "spending company money > guidelines :\nin a timely manner, as expense claims over 90 days from purchase date will not be reimbursed unless approved by your manager. the sooner it is submitted, the sooner you will get reimbursement. - if team members knowingly submit expenses for reimbursement for personal purchases that are not covered in the expense policy, this is a violation of our code of business conduct & ethics ( https : / / s204. q4cdn. com / 984476563 / files / doc _ downloads / govdoc / gitlab - code - of - business - conduct - ethics - 2024 - 06 - 25. pdf ).",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Guidelines",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#guidelines"
+          },
+          "score": 0.48032262921333313
+        },
+        {
+          "chunk": {
+            "id": "c6159f78c3435187",
+            "text": "home office equipment and supplies > home office equipment and supplies :\nfor questions on our policy and how to submit your home office expenses, including which categories in navan to use, please refer to the global travel and expenses handbook page \u2019 s \u201c equipment \u201d section ( https : / / internal. gitlab. com / handbook / finance / expenses / # equipment ). for any additional questions about this process or about utilizing your virtual card ( new hires only ), please reach out via compass ( https : / / handbook. gitlab. com / handbook / eta / corporate - it / compass / compass - guide / ) or email expenses @ gitlab. com ( mailto : expenses @ gitlab. com ). last modified september 13, 2026 : rename helplab to compass across handbook content ( bee431b5 ) view page source - edit this page - please contribute.",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/procurement/office-equipment-supplies/",
+            "section": "Home Office Equipment and Supplies",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/procurement/office-equipment-supplies/"
+          },
+          "score": 0.38967856764793396
+        },
+        {
+          "chunk": {
+            "id": "c22543c9ab6131bc",
+            "text": "spending company money > guidelines :\n- as a public company, gitlab has an obligation to act in the best interests of the corporation and its shareholders. this obligation is shared by all team members and is the basis of our global travel and expense policy as a public company ; team members must be thoughtful in spending the company \u2019 s money. - spending company money includes travel and expenses. - you may privately use gitlab property, a macbook for example, to check your private e - mails or watch a movie as long as it does not violate the law, harm gitlab, or interfere with intellectual property. more details can be found in the internal acceptable use policy ( https : / / handbook. gitlab. com / handbook / people - group / acceptable - use - policy / ). - file your expense report in a timely manner, as expense claims over 90 days from purchase date will not be reimbursed unless approved by your manager. the sooner it",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Guidelines",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#guidelines"
+          },
+          "score": 0.3651619851589203
+        },
+        {
+          "chunk": {
+            "id": "ce643b246c310be6",
+            "text": "spending company money > policy links and resources :\nthis table captures all of the links for different policies that are documented around using company money. this includes information of when to use our expense tool navan, when to use a virtual credit card and when to get a po from zip. policy name | owner | description global travel and expense policy ( https : / / handbook. gitlab. com / handbook / finance / expenses / ) | cfo | policy and procedures by which reimbursable expenses are reimbursed procurement process ( po ) ( https : / / handbook. gitlab. com / handbook / finance / procurement / ) | vp finance | process to engage the procurement team spending company money ( https : / / handbook. gitlab. com / handbook / finance / spending - company - money / ) | cfo | our policy on spending company money ; links to resources gitlab internal acceptable use policy ( https : / / handbook. gitlab",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Policy Links and Resources",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#policy-links-and-resources"
+          },
+          "score": 0.3443645238876343
+        }
+      ],
+      "retrieval": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.75
+      }
+    },
+    {
+      "id": "Q11",
+      "expected_status": "answer",
+      "hits": [
+        {
+          "chunk": {
+            "id": "cad744e91646f0cc",
+            "text": "acceptable use policy > unable to use company laptop :\nfor new employees who have not received a company laptop, there are exception processes ( https : / / handbook. gitlab. com / handbook / eta / corporate - it / end - user - services / laptop - management / laptop - ordering / # exception - processes ) for using non - company devices. the same exception processes apply in the case of a corporate laptop being unavailable or unusable due to loss, theft or disrepair. see lost or stolen procedures ( https : / / handbook. gitlab. com / handbook / security / # reporting - an - incident ) for additional information. you must open a policy exeption request ( https : / / gitlab. com / gitlab - com / gl - security / security - assurance / sec - compliance / exceptions / issues / new? issuable _ template = exception _ request ). while the exception processes are considered a temporary solution, you still",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Unable to Use Company Laptop",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#unable-to-use-company-laptop"
+          },
+          "score": 0.4751479923725128
+        },
+        {
+          "chunk": {
+            "id": "c2421a3c4afd01f4",
+            "text": "acceptable use policy > unable to use company laptop :\n/ exceptions / issues / new? issuable _ template = exception _ request ). while the exception processes are considered a temporary solution, you still need to make sure the non - company system meets basic configuration standards ( https : / / handbook. gitlab. com / handbook / eta / corporate - it / end - user - services / laptop - management / laptop - security / ), and a microsoft windows system is still not allowed access under any circumstances. do not sign in to any gitlab related accounts using public computers, such as library or hotel kiosks.",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Unable to Use Company Laptop",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#unable-to-use-company-laptop"
+          },
+          "score": 0.4215985834598541
+        },
+        {
+          "chunk": {
+            "id": "ccdd874a2cdfb713",
+            "text": "acceptable use policy > acceptable use and security requirements of computing resources at gitlab :\ngitlab - managed assets are provided to conduct gitlab business, with consideration given for limited personal use subject to any conflicting statements contained in any individual employment contracts or agreements. our company uses global electronic communications and resources as routine parts of our business activities. personal and professional use of gitlab - managed assets are subject to security monitoring and protection, unless prohibited under the local laws of a respective team member \u2019 s jurisdiction. it is essential that electronic resources used to perform company business are protected to ensure that these resources are accessible for business purposes and operated in a cost - effective manner, that our company \u2019 s reputation is protected, and that we minimize the potential for legal risk. those receiving gitlab - provided assets are responsible for exercising good judgment when using gitlab - managed computers and accessing gitlab - managed data. as per the onboarding issue procedures ( https : / / gi",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Acceptable Use and Security Requirements of Computing Resources at GitLab",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#acceptable-use-and-security-requirements-of-computing-resources-at-gitlab"
+          },
+          "score": 0.4020175337791443
+        },
+        {
+          "chunk": {
+            "id": "ca230a7d7ced1511",
+            "text": "acceptable use policy > unacceptable system and network activities :\n##tlab uses with others, or allowing use of your account or a gitlab - managed computer by others. this prohibition does not apply to single - sign - on or similar technologies, the use of which is approved. - using a gitlab computing asset to procure or transmit material that is in violation of sexual harassment policies or that creates a hostile workplace. - making fraudulent offers of products, items, or services originating from any gitlab account. - intentionally accessing data or logging into a computer or account that the team member or contractor is not authorized to access, or disrupting network communication, computer processing, or access. - executing any form of network monitoring that intercepts data not intended for the team member \u2019 s or contractor \u2019 s computer, except when troubleshooting networking issues for the benefit of gitlab. - attempting to bypass, modify, disable or tamper with security controls or logs. -",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Unacceptable System and Network Activities",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#unacceptable-system-and-network-activities"
+          },
+          "score": 0.38859856128692627
+        }
+      ],
+      "retrieval": {
+        "recall_at_4": 0.5,
+        "precision_at_4": 0.25
+      }
+    },
+    {
+      "id": "Q12",
+      "expected_status": "answer",
+      "hits": [
+        {
+          "chunk": {
+            "id": "c028fce10a4be977",
+            "text": "working while traveling > connect to the internet securely :\nwhen possible, do not connect to public wifi networks. if a public wifi network is your only option, it \u2019 s crucial to employ robust security measures such as using a personal vpn ( https : / / handbook. gitlab. com / handbook / tools - and - tips / personal - vpn / # what - is - a - personal - vpn ). additionally, gitlab team members should be wary of connecting to unsecured networks or accessing sensitive information over public connections, even when using a vpn. when ethernet connections are available, they generally offer a more secure option than wifi due to their physical nature, but it \u2019 s still essential to verify the network \u2019 s authenticity and utilize encryption protocols whenever possible.",
+            "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+            "section": "Connect to the Internet securely",
+            "section_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/#connect-to-the-internet-securely"
+          },
+          "score": 0.5131468176841736
+        },
+        {
+          "chunk": {
+            "id": "c2421a3c4afd01f4",
+            "text": "acceptable use policy > unable to use company laptop :\n/ exceptions / issues / new? issuable _ template = exception _ request ). while the exception processes are considered a temporary solution, you still need to make sure the non - company system meets basic configuration standards ( https : / / handbook. gitlab. com / handbook / eta / corporate - it / end - user - services / laptop - management / laptop - security / ), and a microsoft windows system is still not allowed access under any circumstances. do not sign in to any gitlab related accounts using public computers, such as library or hotel kiosks.",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Unable to Use Company Laptop",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#unable-to-use-company-laptop"
+          },
+          "score": 0.48502084612846375
+        },
+        {
+          "chunk": {
+            "id": "c4dfed1100b43657",
+            "text": "working while traveling > equipment and ergonomics :\n. com / handbook / company / culture / all - remote / workspace / ) you may miss. this will help you plan your purchases, should any be necessary. learn more about traveling workspaces from the gitlab blog ( https : / / about. gitlab. com / blog / 2019 / 10 / 10 / whats - in - your - backpack / ).",
+            "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+            "section": "Equipment and ergonomics",
+            "section_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/#equipment-and-ergonomics"
+          },
+          "score": 0.4448329508304596
+        },
+        {
+          "chunk": {
+            "id": "c9eecfaf260438c4",
+            "text": "working while traveling > rv / camping, long - term rentals, and couch - surfing :\nstay for a nominal fee. be sure to ask for a speed test before booking to ensure that you will have a satisfactory internet connection upon arrival, and take at least one additional internet source ( smartphone or mobile hotspot ) as a backup.",
+            "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+            "section": "RV/camping, long-term rentals, and couch-surfing",
+            "section_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/#rvcamping-long-term-rentals-and-couch-surfing"
+          },
+          "score": 0.4270298480987549
+        }
+      ],
+      "retrieval": {
+        "recall_at_4": 1.0,
+        "precision_at_4": 0.5
+      }
+    },
+    {
+      "id": "Q13",
+      "expected_status": "clarify",
+      "hits": [
+        {
+          "chunk": {
+            "id": "c6fd6d8f803baa88",
+            "text": "acceptable use policy > policy compliance :\ncompliance with this policy will be verified through various methods, including but not limited to, automated reporting, audits, and feedback to the policy owner. any team member or contractor found to be in violation of this policy may be subject to disciplinary action, up to and including termination of employment, or contractual agreement.",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Policy Compliance",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#policy-compliance"
+          },
+          "score": 0.49591773748397827
+        },
+        {
+          "chunk": {
+            "id": "cda209a1712a21a5",
+            "text": "acceptable use policy > tags : :\n- security _ policy ( https : / / handbook. gitlab. com / tags / security _ policy / ) - security _ policy _ caplscsi ( https : / / handbook. gitlab. com / tags / security _ policy _ caplscsi / )",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Tags:",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/"
+          },
+          "score": 0.36449724435806274
+        },
+        {
+          "chunk": {
+            "id": "cd7ac89f41bbd919",
+            "text": "acceptable use policy > customer support data exception :\ndata handling activities must be logged and documented within the zendesk ticket important : migrating customer data to local machines is prohibited for all other business operations outside of providing customer support. team members requiring similar data access for other purposes must follow the security and technology policy exception process ( https : / / handbook. gitlab. com / handbook / security / security - and - technology - policy - exception / # exceptions ) or contact the security or privacy teams with questions before proceeding.",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Customer Support Data Exception",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#customer-support-data-exception"
+          },
+          "score": 0.35861361026763916
+        },
+        {
+          "chunk": {
+            "id": "c170d277056d31ff",
+            "text": "spending company money > policy links and resources :\nacceptable use of physical corporate cards gitlab related party transactions ( https : / / handbook. gitlab. com / handbook / legal / gitlab - related - party - transactions - policy / ) | clo | related party transactions policy",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Policy Links and Resources",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#policy-links-and-resources"
+          },
+          "score": 0.3583945333957672
+        }
+      ],
+      "retrieval": {
+        "recall_at_4": 0.0,
+        "precision_at_4": 0.0
+      }
+    },
+    {
+      "id": "Q14",
+      "expected_status": "insufficient",
+      "hits": [
+        {
+          "chunk": {
+            "id": "c22543c9ab6131bc",
+            "text": "spending company money > guidelines :\n- as a public company, gitlab has an obligation to act in the best interests of the corporation and its shareholders. this obligation is shared by all team members and is the basis of our global travel and expense policy as a public company ; team members must be thoughtful in spending the company \u2019 s money. - spending company money includes travel and expenses. - you may privately use gitlab property, a macbook for example, to check your private e - mails or watch a movie as long as it does not violate the law, harm gitlab, or interfere with intellectual property. more details can be found in the internal acceptable use policy ( https : / / handbook. gitlab. com / handbook / people - group / acceptable - use - policy / ). - file your expense report in a timely manner, as expense claims over 90 days from purchase date will not be reimbursed unless approved by your manager. the sooner it",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Guidelines",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#guidelines"
+          },
+          "score": 0.4400770962238312
+        },
+        {
+          "chunk": {
+            "id": "ca6e9bf58cb966e3",
+            "text": "acceptable use policy > gitlab internal acceptable use policy :\nthis policy specifies requirements related to the use of gitlab computing resources and data assets",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "GitLab Internal Acceptable Use Policy",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/"
+          },
+          "score": 0.43040892481803894
+        },
+        {
+          "chunk": {
+            "id": "ce4d80a82aae0dde",
+            "text": "acceptable use policy > return of gitlab - owned assets :\n##ctive of their valuation \u2013 if they are specifically requested to do so either during their tenure with gitlab or upon offboarding. in cases of investigation, misconduct, termination for cause or any violation of gitlab \u2019 s code of business conduct & ethics ( https : / / ir. gitlab. com / governance / governance - documents / default. aspx ), a team member has no right to retain gitlab - owned computing equipment.",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Return of GitLab-Owned Assets",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#return-of-gitlab-owned-assets"
+          },
+          "score": 0.41595888137817383
+        },
+        {
+          "chunk": {
+            "id": "caa815026f9867d8",
+            "text": "acceptable use policy > security and proprietary information :\nall gitlab data is categorized and must be handled in accordance with the data classification standard ( https : / / handbook. gitlab. com / handbook / security / policies _ and _ standards / data - classification - standard / ). all computing assets that connect to any part of the gitlab network, or 3rd party services that are used by gitlab, must comply with the applicable standards.",
+            "source_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+            "section": "Security and Proprietary Information",
+            "section_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/#security-and-proprietary-information"
+          },
+          "score": 0.4019937515258789
+        }
+      ],
+      "retrieval": {
+        "recall_at_4": 0.0,
+        "precision_at_4": 0.0
+      }
+    },
+    {
+      "id": "Q15",
+      "expected_status": "insufficient",
+      "hits": [
+        {
+          "chunk": {
+            "id": "ce643b246c310be6",
+            "text": "spending company money > policy links and resources :\nthis table captures all of the links for different policies that are documented around using company money. this includes information of when to use our expense tool navan, when to use a virtual credit card and when to get a po from zip. policy name | owner | description global travel and expense policy ( https : / / handbook. gitlab. com / handbook / finance / expenses / ) | cfo | policy and procedures by which reimbursable expenses are reimbursed procurement process ( po ) ( https : / / handbook. gitlab. com / handbook / finance / procurement / ) | vp finance | process to engage the procurement team spending company money ( https : / / handbook. gitlab. com / handbook / finance / spending - company - money / ) | cfo | our policy on spending company money ; links to resources gitlab internal acceptable use policy ( https : / / handbook. gitlab",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Policy Links and Resources",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#policy-links-and-resources"
+          },
+          "score": 0.219427689909935
+        },
+        {
+          "chunk": {
+            "id": "c6159f78c3435187",
+            "text": "home office equipment and supplies > home office equipment and supplies :\nfor questions on our policy and how to submit your home office expenses, including which categories in navan to use, please refer to the global travel and expenses handbook page \u2019 s \u201c equipment \u201d section ( https : / / internal. gitlab. com / handbook / finance / expenses / # equipment ). for any additional questions about this process or about utilizing your virtual card ( new hires only ), please reach out via compass ( https : / / handbook. gitlab. com / handbook / eta / corporate - it / compass / compass - guide / ) or email expenses @ gitlab. com ( mailto : expenses @ gitlab. com ). last modified september 13, 2026 : rename helplab to compass across handbook content ( bee431b5 ) view page source - edit this page - please contribute.",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/procurement/office-equipment-supplies/",
+            "section": "Home Office Equipment and Supplies",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/procurement/office-equipment-supplies/"
+          },
+          "score": 0.20933836698532104
+        },
+        {
+          "chunk": {
+            "id": "caa91fb56b0493f5",
+            "text": "spending company money > policy links and resources :\ncfo | our policy on spending company money ; links to resources gitlab internal acceptable use policy ( https : / / handbook. gitlab. com / handbook / people - group / acceptable - use - policy / ) | cpo, clo | requirements related to the use of gitlab computing resources and data assets by gitlab team members growth and development benefit ( https : / / handbook. gitlab. com / handbook / people - group / learning - and - development / growth - and - development / ) | cpo | access external resources to develop their career navan physical card policy ( https : / / handbook. gitlab. com / handbook / finance / accounts - payable / corp - credit - cards / ) | cfo | guidelines for acceptable use of physical corporate cards gitlab related party transactions ( https : / / handbook. gitlab. com / handbook / legal / gi",
+            "source_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+            "section": "Policy Links and Resources",
+            "section_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/#policy-links-and-resources"
+          },
+          "score": 0.19275806844234467
+        },
+        {
+          "chunk": {
+            "id": "c9eecfaf260438c4",
+            "text": "working while traveling > rv / camping, long - term rentals, and couch - surfing :\nstay for a nominal fee. be sure to ask for a speed test before booking to ensure that you will have a satisfactory internet connection upon arrival, and take at least one additional internet source ( smartphone or mobile hotspot ) as a backup.",
+            "source_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/",
+            "section": "RV/camping, long-term rentals, and couch-surfing",
+            "section_url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/working-while-traveling/#rvcamping-long-term-rentals-and-couch-surfing"
+          },
+          "score": 0.1736595332622528
+        }
+      ],
+      "retrieval": {
+        "recall_at_4": 0.0,
+        "precision_at_4": 0.0
+      }
+    }
+  ]
+}

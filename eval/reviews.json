@@ -1,0 +1,302 @@
+{
+  "dense:Q01": {
+    "answer_hash": "50e8ae8db0de9fc34459f21f6c95d6205a49e20b7d3aa8087dfae46e9e761fe8",
+    "supported_claims": 1,
+    "total_claims": 1,
+    "correct": true,
+    "citation_support": true,
+    "notes": "Correct 90-day threshold and manager-approval exception; cited Guidelines passages support it.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "dense:Q02": {
+    "answer_hash": "fa53e47c17e03b22887f8398bf8246db8936d485e7a8f3dd5170316406d814ea",
+    "supported_claims": 1,
+    "total_claims": 1,
+    "correct": true,
+    "citation_support": true,
+    "notes": "Correctly identifies knowingly expensing uncovered personal purchases as a Code of Business Conduct & Ethics violation.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "dense:Q03": {
+    "answer_hash": "0b77af3e5f5dd96697de4a2a57f4639708a922dbf176f75244b187778d2ee694",
+    "supported_claims": 2,
+    "total_claims": 2,
+    "correct": true,
+    "citation_support": true,
+    "notes": "Compass and expenses@gitlab.com are both present in the cited equipment contact passage. The new-hire qualifier is preserved.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "dense:Q04": {
+    "answer_hash": "5af4d1b4df88f27c862d2cf77ad5339d72dedabc989fd2dad7c183eafc08eedf",
+    "supported_claims": 2,
+    "total_claims": 2,
+    "correct": true,
+    "citation_support": true,
+    "notes": "Both device-encryption evidence and the serial number are required before onboarding is complete; both points are supported.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "dense:Q05": {
+    "answer_hash": "bcf3fa48adf6391041a046c515fb433a4a2b55e77ea73e6506ee6e36f90b3042",
+    "supported_claims": 5,
+    "total_claims": 5,
+    "correct": true,
+    "citation_support": true,
+    "notes": "The removable-storage passage supports the default block, business-need exception request, and Corporate Security coordination of encryption-enabled hardware.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "dense:Q06": {
+    "answer_hash": "5b7863673fefca3d427126e6443016f40286bdcf527c6a31ec4cc0a4dbb47553",
+    "supported_claims": 1,
+    "total_claims": 2,
+    "correct": false,
+    "citation_support": false,
+    "notes": "Failure: the answer invents an exception to the backup prohibition. The cited source prohibits backup/redundancy on other services; the access-request exception is specifically for external sharing. The continuation chunk also does not support the claimed exception.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "dense:Q07": {
+    "answer_hash": "b60d8ee535d46eb811c011c4a74386389899933940ad0d30e514df204b3e87a4",
+    "supported_claims": 1,
+    "total_claims": 1,
+    "correct": true,
+    "citation_support": true,
+    "notes": "Preserves the exact 90-day threshold and manager approval rather than converting three calendar months into a rule.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "dense:Q08": {
+    "answer_hash": "00544d23633475b95b443ad2a48cc9fe145e50d5409a7b05bcd365b37dd6d13b",
+    "supported_claims": 5,
+    "total_claims": 5,
+    "correct": true,
+    "citation_support": true,
+    "notes": "Connectivity redundancy, different carriers, tethering, a separate hotspot, Ethernet, and local eSIM options appear in the cited travel guidance. These are travel recommendations; the answer should also preserve eSIM device compatibility.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "dense:Q09": {
+    "answer_hash": "7101fb4f302a23c8942f2710698878c77e2f468a18f9e19b95922d515dcd1b95",
+    "supported_claims": 2,
+    "total_claims": 3,
+    "correct": false,
+    "citation_support": false,
+    "notes": "Endpoint-management purpose is supported. The answer blurs preconfigured company-procured Macs with the Day-1 Jamf installation requirement for team members procuring/expensing Macs. It does not clearly preserve that distinction.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "dense:Q10": {
+    "answer_hash": "8c115136632330b014db153895c4c9acc88dde1500e5f9dbb98f7fd4637addd0",
+    "supported_claims": 3,
+    "total_claims": 3,
+    "correct": true,
+    "citation_support": true,
+    "notes": "Correctly combines the equipment contact route with the spending-page 90-day/manager-approval rule. Both required source pages are retrieved.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "dense:Q11": {
+    "answer_hash": "1f1963da1d4f8baed29a7eb2c3c5dc6d25f73bdacd773b8a5b440be655c6ae17",
+    "supported_claims": 1,
+    "total_claims": 2,
+    "correct": false,
+    "citation_support": false,
+    "notes": "Failure: retrieval missed the Spending Company Money permission passage and its conditions. The cited monitoring passage allows consideration of limited personal use subject to employment agreements, but does not itself establish the email/movie examples. The answer omits key permission constraints.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "dense:Q12": {
+    "answer_hash": "0ddf4b730f6ee7600cca3fd8dca18ce2814e1000c012d1377888c5fb58e79542",
+    "supported_claims": 2,
+    "total_claims": 2,
+    "correct": true,
+    "citation_support": true,
+    "notes": "Combines the public-WiFi/VPN travel guidance and the explicit public-computer sign-in prohibition; both required source pages are present.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "dense:Q13": {
+    "answer_hash": "0c3b90926f8f01d99a9310ab2cc43397910fc018f5333d20db991da1c90d06fa",
+    "supported_claims": 0,
+    "total_claims": 0,
+    "correct": false,
+    "citation_support": true,
+    "notes": "Failure: the action and policy are unspecified, so the assistant should ask for clarification. Generic insufficient-evidence fallback does not resolve that ambiguity.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "dense:Q14": {
+    "answer_hash": "7e100c2ea3b5566c8ba5c0b2fc818c8269b3ac5833e81c542b963b7baf6f7a88",
+    "supported_claims": 0,
+    "total_claims": 0,
+    "correct": true,
+    "citation_support": true,
+    "notes": "Appropriate refusal: a bounded static policy snapshot cannot supply a live stock quote.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "dense:Q15": {
+    "answer_hash": "170f1a9b37448a9526fb46167dfc1629c53fb6a28756329295cec47f4743b0ce",
+    "supported_claims": 0,
+    "total_claims": 0,
+    "correct": true,
+    "citation_support": true,
+    "notes": "Appropriate refusal: the public equipment page links to internal details but does not establish an exact Canadian stipend.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "hybrid:Q01": {
+    "answer_hash": "3038ae83ced1026621072929e3f4a09541c94e756d02db3df4bfa9254aa40528",
+    "supported_claims": 1,
+    "total_claims": 1,
+    "correct": true,
+    "citation_support": true,
+    "notes": "Correct 90-day threshold and manager-approval exception; cited Guidelines passages support it.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "hybrid:Q02": {
+    "answer_hash": "cff300fa55ffeb229a07ddde84e0a390b239d58b42e6042c69ea29018694bac0",
+    "supported_claims": 1,
+    "total_claims": 1,
+    "correct": true,
+    "citation_support": true,
+    "notes": "Correctly identifies knowingly expensing uncovered personal purchases as a Code of Business Conduct & Ethics violation.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "hybrid:Q03": {
+    "answer_hash": "c69dc7fabaeaeb06fae0e5f7da189f3e910603063700d5588f1fb2efdad51fa6",
+    "supported_claims": 2,
+    "total_claims": 2,
+    "correct": true,
+    "citation_support": true,
+    "notes": "Compass and expenses@gitlab.com are both present in the cited equipment contact passage. The new-hire qualifier is preserved.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "hybrid:Q04": {
+    "answer_hash": "09ddea16ccf1d2ed32b371495076481cb63832dc7d6474688ca82507c86ba857",
+    "supported_claims": 2,
+    "total_claims": 2,
+    "correct": true,
+    "citation_support": true,
+    "notes": "Both device-encryption evidence and the serial number are required before onboarding is complete; both points are supported.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "hybrid:Q05": {
+    "answer_hash": "948b6e054db6849b54df32293f7aae8473ae83ef3e6263fd1268b3361b3450ea",
+    "supported_claims": 2,
+    "total_claims": 2,
+    "correct": false,
+    "citation_support": true,
+    "notes": "Incomplete: correctly states the prohibition and request route but omits business-need qualification and Corporate Security coordination of an encryption-enabled device.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "hybrid:Q06": {
+    "answer_hash": "8d40eb60b2f69e0aafe63d5b03bf5aa072d2da7a1f6b5f4891d459116274936f",
+    "supported_claims": 1,
+    "total_claims": 2,
+    "correct": false,
+    "citation_support": false,
+    "notes": "Failure: the answer invents an exception to the backup prohibition. The cited source prohibits backup/redundancy on other services; the access-request exception is specifically for external sharing. The continuation chunk also does not support the claimed exception.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "hybrid:Q07": {
+    "answer_hash": "8b1d52e9d3107b2d80cc3d5072dd7f49e7bdc5c417a854a5dbe5599296b1c883",
+    "supported_claims": 1,
+    "total_claims": 1,
+    "correct": true,
+    "citation_support": true,
+    "notes": "Preserves the exact 90-day threshold and manager approval rather than converting three calendar months into a rule.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "hybrid:Q08": {
+    "answer_hash": "d189f750757ca8865a74a1c1790272008bd38036ee1a817b4e1d881fac69b710",
+    "supported_claims": 0,
+    "total_claims": 0,
+    "correct": false,
+    "citation_support": true,
+    "notes": "Failure: relevant redundancy evidence was retrieved, but the runtime verifier rejected the generated answer. The run did not retain the per-case generation/verifier trace, so the precise rejected claim or malformed verdict cannot be reconstructed from this artifact. Do not assume retrieval failure.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "hybrid:Q09": {
+    "answer_hash": "1e79fa7d651ca6d3d9ea8316cbbce4cbc35f78c3452b0f0e061df557ee715b7c",
+    "supported_claims": 2,
+    "total_claims": 3,
+    "correct": false,
+    "citation_support": false,
+    "notes": "Endpoint-management purpose is supported. The answer blurs preconfigured company-procured Macs with the Day-1 Jamf installation requirement for team members procuring/expensing Macs. It does not clearly preserve that distinction.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "hybrid:Q10": {
+    "answer_hash": "a7e83cd6265d2b19e3f62726d058ca5ae71e604f525db221d7a09f4831822639",
+    "supported_claims": 3,
+    "total_claims": 3,
+    "correct": true,
+    "citation_support": true,
+    "notes": "Correctly combines the equipment contact route with the spending-page 90-day/manager-approval rule. Both required source pages are retrieved.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "hybrid:Q11": {
+    "answer_hash": "bf6d42853066229d5c104a86307eea301b4e8b4c1cec834e19cdf681533fa128",
+    "supported_claims": 1,
+    "total_claims": 3,
+    "correct": false,
+    "citation_support": false,
+    "notes": "Failure: retrieval missed the Spending Company Money permission passage and its conditions. The cited monitoring passage allows consideration of limited personal use subject to employment agreements, but does not itself establish the email/movie examples. The answer omits key permission constraints. Additionally it omits the local-law exception to monitoring and adds an unrelated forwarding prohibition. That last prohibition is supported but does not complete the requested answer.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "hybrid:Q12": {
+    "answer_hash": "6b037a9cc62dc3fcc1aeca1cfb6719bea07acbaecc9a87be3454ab96b600d69e",
+    "supported_claims": 2,
+    "total_claims": 2,
+    "correct": true,
+    "citation_support": true,
+    "notes": "Combines the public-WiFi/VPN travel guidance and the explicit public-computer sign-in prohibition; both required source pages are present.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "hybrid:Q13": {
+    "answer_hash": "00149894121abfc95674461be0373383dcb209478e12386d02620ed48ff2d10c",
+    "supported_claims": 0,
+    "total_claims": 0,
+    "correct": false,
+    "citation_support": true,
+    "notes": "Failure: the action and policy are unspecified, so the assistant should ask for clarification. Generic insufficient-evidence fallback does not resolve that ambiguity.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "hybrid:Q14": {
+    "answer_hash": "e01e92fd20fe2857296d6bdcb85190ebc171a44e6f87e2f869b68be7b6303824",
+    "supported_claims": 0,
+    "total_claims": 0,
+    "correct": true,
+    "citation_support": true,
+    "notes": "Appropriate refusal: a bounded static policy snapshot cannot supply a live stock quote.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  },
+  "hybrid:Q15": {
+    "answer_hash": "77dd7527a1f52a747d9e13acddb6734176de90164d3fcaa8281c4f70a0ea99de",
+    "supported_claims": 0,
+    "total_claims": 0,
+    "correct": true,
+    "citation_support": true,
+    "notes": "Appropriate refusal: the public equipment page links to internal details but does not establish an exact Canadian stipend.",
+    "review_source": "Codex draft judgments reviewed and confirmed by project owner in conversation on 2026-10-18",
+    "human_confirmed": true
+  }
+}

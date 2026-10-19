@@ -1,0 +1,54 @@
+{
+  "reviewed": true,
+  "corpus_hash": "9fac481a920c38d74f42f59563d67dd9b55dc8928138a872cf4c23c9fdf8c642",
+  "questions_hash": "1470a2dd7e26af9b54f1e143253a6d61ba03264c07e1f1674aeee6aa3ccb50ea",
+  "relevant_chunks": {
+    "Q01": [
+      "c22543c9ab6131bc",
+      "c2844c845e1f0735"
+    ],
+    "Q02": [
+      "c2844c845e1f0735"
+    ],
+    "Q03": [
+      "c6159f78c3435187"
+    ],
+    "Q04": [
+      "ca17f2d61c1584a3"
+    ],
+    "Q05": [
+      "c46b02bc32b4b7f4"
+    ],
+    "Q06": [
+      "ca2b9f75d54524b0"
+    ],
+    "Q07": [
+      "c22543c9ab6131bc",
+      "c2844c845e1f0735"
+    ],
+    "Q08": [
+      "cf7fe83ce177b570"
+    ],
+    "Q09": [
+      "ca17f2d61c1584a3",
+      "c3832195b6905a63"
+    ],
+    "Q10": [
+      "c6159f78c3435187",
+      "c22543c9ab6131bc",
+      "c2844c845e1f0735"
+    ],
+    "Q11": [
+      "c22543c9ab6131bc",
+      "ccdd874a2cdfb713"
+    ],
+    "Q12": [
+      "c028fce10a4be977",
+      "c2421a3c4afd01f4"
+    ],
+    "Q13": [],
+    "Q14": [],
+    "Q15": []
+  },
+  "review_method": "Codex inspected the acquired source sections and relevant chunk texts before any real retrieval evaluation. This is an agent source review, not a human sign-off."
+}
